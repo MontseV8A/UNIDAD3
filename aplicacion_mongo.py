@@ -134,7 +134,7 @@ def consulta_general():
             #print(promedio)
             #print(cont)
             print(f"control:{est['control']}, {est['nombre']} calificacion")
-        print(promedio/cont)
+            print(promedio/cont)
 
                 #print(f"Estudiante: {est['control']}")promedio = (acumulado + promedio) / cont        #print(f"Materia:{mat['materia'], mat['calificacion']}")
                 #
